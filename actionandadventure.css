@@ -1,0 +1,29 @@
+
+.header {
+    margin: 20px;
+    border: white;
+    background-color: white;
+    padding: 150px;
+
+}
+
+.header2 {
+    
+    border: lightgrey;
+    background-color:lightgray;
+    padding: 150px;
+  
+}
+
+.header3 {
+    border: grey;
+    background-color: grey;
+    padding: 300px;
+}
+
+#AandAheader {
+    color: rgb(153, 152, 152)); 
+   text-align: center;
+   margin: 50px;
+   font-size: 60px;
+}
